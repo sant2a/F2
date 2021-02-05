@@ -11,7 +11,7 @@ public class Enemy {
 	int y;
 	int v;
 
-	Image img = new ImageIcon("C:/Users/User/.eclipse/F1/res/klipartz.com_photo-resizer.ru.png").getImage();
+	Image img = new ImageIcon("res/klipartz.com_photo-resizer.ru.png").getImage();
 
 	
 	Road road;

@@ -23,7 +23,7 @@ public class Road extends JPanel implements ActionListener, Runnable {
 
 	Timer mainTimer = new Timer(20, this);
 
-	Image img = new ImageIcon("C:/Users/User/.eclipse/F1/res/1556547969.QFQT5.png").getImage();
+	Image img = new ImageIcon("res/1556547969.QFQT5.png").getImage();
 
 	Player p = new Player();
 

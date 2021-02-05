@@ -12,11 +12,11 @@ public class Player {
 	public static final int MAX_TOP = 50;
 	public static final int MAX_BOTTOM = 600;
 
-	Image img_c = new ImageIcon("C:/Users/User/.eclipse/F1/res/pngfind_com-car-logo-design-png-2088863.dPqHe.png")
+	Image img_c = new ImageIcon("res/pngfind_com-car-logo-design-png-2088863.dPqHe.png")
 			.getImage();
-	Image img_r = new ImageIcon("C:/Users/User/.eclipse/F1/res/Безымянный-2_photo-resizer.ru.png")
+	Image img_r = new ImageIcon("res/Безымянный-2_photo-resizer.ru.png")
 			.getImage();
-	Image img_l = new ImageIcon("C:/Users/User/.eclipse/F1/res/Безымянный-1_photo-resizer.ru.png")
+	Image img_l = new ImageIcon("res/Безымянный-1_photo-resizer.ru.png")
 			.getImage();
 	
 	Image img = img_c;
